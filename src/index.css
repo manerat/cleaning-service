@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Kanit:wght@300&display=swap');
+
+body{
+  font-family: 'Kanit', sans-serif;
+}
+
+.select-promotion:hover {
+  border : 1px solid red;
+  transition: all 500ms ease-in-out;
+}
+
+.active { 
+  border : 1px solid salmon;
+}
